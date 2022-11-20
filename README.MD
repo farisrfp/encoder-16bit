@@ -1,4 +1,4 @@
 # Binary Encoder 16 to 4 With Enable
 
-## Screenshoot
+## 3D Model using Autodesk Fusion 360
 ![](Model/Screenshot4.png)
